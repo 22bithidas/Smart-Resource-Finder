@@ -17,7 +17,7 @@ else:
     sort_option = "stars"
 params = {
     "q": topic,
-    "sort": "sort_option",
+    "sort": sort_option,
     "per_page": 5
 }
 
