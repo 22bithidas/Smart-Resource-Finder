@@ -21,7 +21,7 @@ Smart Resource Finder is a Python-based web application that helps developers di
 2. Install dependencies:
    `pip install -r requirements.txt`
 3. Run the application:
-   `streamlit run app.py`
+   py -m streamlit run app.py
 
 ## 👩‍💻 Project Purpose
 This project was created to practice Python, API integration, and web application development.
